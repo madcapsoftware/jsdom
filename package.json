@@ -1,6 +1,6 @@
 {
   "name": "jsdom",
-  "version": "11.7.0",
+  "version": "11.7.1",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
@@ -71,7 +71,8 @@
     "st": "^1.2.2",
     "watchify": "^3.9.0",
     "wd": "^1.5.0",
-    "webidl2js": "^9.0.0"
+    "webidl2js": "^9.0.0",
+    "yarn": "^1.6.0"
   },
   "browser": {
     "canvas": false,
